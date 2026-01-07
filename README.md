@@ -54,9 +54,7 @@ This application uses the [ExchangeRate-API](https://www.exchangerate-api.com/) 
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- Python
 - Exchange Rate API
 
 ## Contributing
